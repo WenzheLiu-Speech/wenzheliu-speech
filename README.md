@@ -1,10 +1,7 @@
-### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=Wenzhe-Liu&show_icons=true&hide=issues&theme=dark&hide_title=false" />
 <!--
-**Wenzhe-Liu/Wenzhe-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm a 
+- :orange_book: speech enhacement; array signal processing
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

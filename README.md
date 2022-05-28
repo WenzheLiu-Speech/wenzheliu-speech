@@ -1,7 +1,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=WenzheLiu-Speech&show_icons=true&hide=issues&theme=dark&hide_title=false" />
+
+Hi, I'm Wenzhe Liu (刘文哲), graduating from Institute of Acoustics, Chinese Academy of Sciences (中科院声学所) and will join in Tencent (腾讯)。
+- 📕 Research interests: speech enhacement (including AEC, denoising and dereverberation), audio codec and speech compression, and microphone array signal processing (语音增强/音频编码/阵列信号处理)
+- 📫 How to reach me: liuwenzhe@mail.ioa.ac.cn
 <!--
-I'm a 
-- :orange_book: speech enhacement; array signal processing
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

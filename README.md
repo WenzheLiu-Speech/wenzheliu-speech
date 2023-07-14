@@ -8,8 +8,9 @@
 - 📫 How to reach me: wenzheliu@tencent.com <!-- liuwenzhe@mail.ioa.ac.cn -->
 - More information about me on my homepage: https://wenzheliu-speech.github.io/ 
  
+ <!--
  <img src="https://github-readme-stats.vercel.app/api?username=WenzheLiu-Speech&show_icons=true&hide=issues&theme=dark&hide_title=false" />
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

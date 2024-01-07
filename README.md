@@ -3,7 +3,7 @@
 - 🏠  I work for Kuaishou(快手), and was employed by Tencent(腾讯), and graduated from the Institute of Acoustics, Chinese Academy of Sciences (中科院声学所)
 - 📕 Research interests: speech enhancement, compression, synthesis, and voice conversion
   - frontend processing: acoustic echo cancellation, denoising, and dereverberation
-  - audio codec and speech compression: audio codec, packet loss concealment, and bandwidth extension
+  - audio codec and speech compression: audio (speech, music, and noise) codec, packet loss concealment, and bandwidth extension
   - speech synthesis: TTS, voice conversion, and speech restoration
   - far-field sound pickup: beamforming, DOA estimation, and microphone array signal processing
 - 📫 How to reach me: liuwenzhe@mail.ioa.ac.cn 

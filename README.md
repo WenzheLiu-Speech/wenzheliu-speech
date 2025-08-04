@@ -1,11 +1,11 @@
 
  Hi, I'm Wenzhe Liu (刘文哲) 
-- 🏠  I work for Kuaishou(快手), and was employed by Tencent(腾讯), and graduated from the Institute of Acoustics, Chinese Academy of Sciences (中科院声学所)
-- 📕 Research interests: speech enhancement, compression, synthesis, and voice conversion
-  - frontend processing: acoustic echo cancellation, denoising, and dereverberation
-  - audio codec and speech compression: audio (speech, music, and noise) codec, packet loss concealment, and bandwidth extension
+- 🏠  I work for ByteDance(字节跳动), and was employed by Tencent(腾讯) and Kuaishou (快手), and graduated from the Institute of Acoustics, Chinese Academy of Sciences (中科院声学所)
+- 📕 Research interests: speech/audio generation (such as speech synthesis, voice conversion and text/audio to audio), and speech processing (such as speech enhancement and speech compression)
   - speech synthesis: TTS, voice conversion, and speech restoration
-  - far-field sound pickup: beamforming, DOA estimation, and microphone array signal processing
+  - speech interaction: audio-based end-to-end conversational model
+  - frontend processing: acoustic echo cancellation, denoising, dereverberation, beamforming, DOA estimation, and microphone array signal processing
+  - audio codec and speech compression: audio (speech, music, and noise) codec, packet loss concealment, and bandwidth extension
 - 📫 How to reach me: liuwenzhe@mail.ioa.ac.cn 
 - More information about me on my homepage: https://wenzheliu-speech.github.io/ 
  
